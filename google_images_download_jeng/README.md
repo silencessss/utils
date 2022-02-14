@@ -1,7 +1,11 @@
 # google search images and download
 ## Introduction
-原本由github/hardikvasa開發的google-images-download沒辦法使用了。所以改為下列作者(tsjeng45)的code。
+原本由github/hardikvasa開發的google-images-download沒辦法使用了。
+i.e. 
+https://stackoverflow.com/questions/60370799/google-image-download-with-python-cannot-download-images
+https://stackoverflow.com/questions/63966382/error-in-downloading-images-using-google-images-download
 
+所以改為下列作者(tsjeng45)的code。
 ### by tsjeng45 or this repository
 - by tsjeng45 [#link](https://github.com/tsjeng45/google_images_download_jeng)
 1. Install. `$pip install google-images-download-jeng`
