@@ -13,7 +13,7 @@ for i in range(len(Langcodes_value)):
     try:
         trans_text = translator.translate(SRC,lang_tgt=Langcodes_value[i])
         print(trans_text)
-        trans_arr.append(trans_arr)
+        trans_arr.append(trans_text)
     except:
         print('::|INFO|:: Start error with..',Langcodes_value[i])
 print('::|INFO|:: All language have ..',len(trans_arr))
